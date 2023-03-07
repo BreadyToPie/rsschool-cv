@@ -70,11 +70,11 @@ isDivideBy(2, 4, 5)
 
 ### Education
 
-* Kharkiv Polytechnic Institute, Master's Degree
-* Courses:
-    +[The Web Developer Bootcamp 2023](https://www.udemy.com/share/101W9C3@8wGQN15CLQpGD0gbUb2ut3QMluev6V5YNM4NHsrIaBewdLfc4AVXZZOVNhIO-Fcy7A==/)
-    +[html + css](https://www.youtube.com/@FreelancerLifeStyle)
-    +[JS](https://www.youtube.com/@Bogdan_Stashchuk)
+- Kharkiv Polytechnic Institute, Master's Degree
+- Courses:
+  [The Web Developer Bootcamp 2023](https://www.udemy.com/share/101W9C3@8wGQN15CLQpGD0gbUb2ut3QMluev6V5YNM4NHsrIaBewdLfc4AVXZZOVNhIO-Fcy7A==/)
+  [html + css](https://www.youtube.com/@FreelancerLifeStyle)  
+  [JS](https://www.youtube.com/@Bogdan_Stashchuk)
 
 ===
 
