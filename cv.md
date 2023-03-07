@@ -4,6 +4,8 @@
 
 ### Junior Frontend Developer
 
+---
+
 ### Contact Information:
 
 **Location:** Kharkiv, Ukraine
@@ -12,11 +14,15 @@
 **telegram:** @uncool_as_me
 **discord:** Bohdan Pochapskyi (@breadytopie)
 
+---
+
 ### About myself
 
 I graduated from the Kharkov Polytechnic Institute for the specialization of an electric drive (bachelor's degree) and robotics (master Master).
 He was engaged in target advertising, the development of sites on the CMS, the maintenance of publics on social networks and the calculation of the cost and strength of PVC products (windows, doors, partitions).
 Programming always attracted, but discarded the idea to do purposefully. Now I decided to catch up and, nevertheless, become a specialist in this area.
+
+---
 
 ### Skills
 
@@ -24,6 +30,8 @@ Programming always attracted, but discarded the idea to do purposefully. Now I d
 - CSS, SCSS
 - JavaSctipt (basic, in progress)
 - Bootstrap 5
+
+---
 
 # Code Example
 
@@ -62,7 +70,7 @@ isDivideBy(2, 4, 5)
 - Courses:
   _[The Web Developer Bootcamp 2023](https://www.udemy.com/share/101W9C3@8wGQN15CLQpGD0gbUb2ut3QMluev6V5YNM4NHsrIaBewdLfc4AVXZZOVNhIO-Fcy7A==/)
   _[html + css](https://www.youtube.com/@FreelancerLifeStyle)  
-  \_[JS](https://www.youtube.com/@Bogdan_Stashchuk)
+   \*[JS](https://www.youtube.com/@Bogdan_Stashchuk)
 
 ### English
 
