@@ -64,13 +64,13 @@ if (number%a === 0 && number%b === 0){
 isDivideBy(2, 4, 5)
 ```
 
+---
+
 ### Education
 
-- Kharkiv Polytechnic Institute, Master's Degree
-- Courses:
-  _[The Web Developer Bootcamp 2023](https://www.udemy.com/share/101W9C3@8wGQN15CLQpGD0gbUb2ut3QMluev6V5YNM4NHsrIaBewdLfc4AVXZZOVNhIO-Fcy7A==/)
-  _[html + css](https://www.youtube.com/@FreelancerLifeStyle)  
-   \*[JS](https://www.youtube.com/@Bogdan_Stashchuk)
+1. Kharkiv Polytechnic Institute, Master's Degree
+2. Courses: 1.[The Web Developer Bootcamp 2023](https://www.udemy.com/share/101W9C3@8wGQN15CLQpGD0gbUb2ut3QMluev6V5YNM4NHsrIaBewdLfc4AVXZZOVNhIO-Fcy7A==/) 2.[html + css](https://www.youtube.com/@FreelancerLifeStyle)  
+    3.[JS](https://www.youtube.com/@Bogdan_Stashchuk)
 
 ### English
 
