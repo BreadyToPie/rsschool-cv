@@ -1,1 +1,1 @@
-https://BreadyToPie.github.io/rsschool-cv/cv
+https://BreadyToPie.github.io/rsschool-cv/
